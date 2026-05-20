@@ -1,0 +1,5 @@
+body { font-family: sans-serif; display: flex; justify-content: center; align-items: center; height: 100vh; background-color: #2c3e50; color: white; }
+.stopwatch-container { text-align: center; background: #34495e; padding: 2rem; border-radius: 10px; }
+#display { font-size: 3rem; margin-bottom: 20px; }
+button { padding: 10px 20px; cursor: pointer; margin: 5px; }
+#laps { list-style: none; padding: 0; margin-top: 20px; }
